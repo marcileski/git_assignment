@@ -1,5 +1,5 @@
 # git_assignment
-This repository contains an rainfall in Melbourne and Oxford over time.
+This repository contains an analysis of rainfall in Melbourne and Oxford over time.
 
 To run this analysis use the following command:
 
